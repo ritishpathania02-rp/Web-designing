@@ -1,0 +1,36 @@
+*{
+    padding :0;
+    margin: 0;
+    font: white;
+}
+body{
+    background-color: #E0E4CC;
+    border: 10px solid #0F172A;
+}
+#navbar{
+    background-color: #000000;
+    height: 60px;
+    font-size: 20px;
+
+}
+#navlink{
+   margin-right: 190px;
+}
+header{
+    display: flex;
+}
+#name{
+    font-size: 30px;
+    color: #0F172A;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+#footer{
+    background-color:#0F172A;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+#div1{
+    background-color: #A7DBD8;
+}
